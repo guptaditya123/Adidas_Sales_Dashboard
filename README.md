@@ -3,8 +3,11 @@
 An interactive and insightful sales dashboard built using **Python**, **Streamlit**, and **Plotly**, aimed at visualizing and analyzing Adidas US retail performance across multiple dimensions such as time, location, and retailer.
 
 <br>
+![Screenshot (107)](https://github.com/user-attachments/assets/0474d460-9e68-49d9-80e8-6bd176904d57)
+![Screenshot (108)](https://github.com/user-attachments/assets/1f24e50b-d32e-4b9a-b9c4-8821c02407cf)
+![Uploading Screenshot (110).png…]()
 
-![Dashboard Preview](assets/dashboard_preview.png)
+
 
 ---
 
