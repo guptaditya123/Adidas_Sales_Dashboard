@@ -5,8 +5,11 @@ An interactive and insightful sales dashboard built using **Python**, **Streamli
 <br>
 
 Here’s a sneak peek of what the Adidas US Sales Analytics Dashboard looks like:
+
 [Screenshot (107)](https://github.com/user-attachments/assets/a1ad9146-b06f-4a6b-b755-edda7542ee0c)
+
 ![Screenshot (108)](https://github.com/user-attachments/assets/a88ff835-05bc-4379-9f7e-c4dc8553098b)
+
 ![Screenshot (110)](https://github.com/user-attachments/assets/9e3e3156-6b4b-41e7-9323-1ebaaf764940)
 
 ---
