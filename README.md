@@ -60,13 +60,4 @@ The dataset used is `Adidas_US_Sales_Dataset.csv` which includes:
 - Invoice Date
 - Units Sold, Operating Profit, Total Sales
 
-> 📌 Ensure the dataset is placed in the root directory of the project.
 
----
-
-## 🛠️ Installation & Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/your-username/adidas-sales-dashboard.git
-cd adidas-sales-dashboard
